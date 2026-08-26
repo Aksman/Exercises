@@ -1,0 +1,474 @@
+{
+    "Albany, NY": {
+        "Boston, MA": 168,
+        "New York City, NY": 151,
+        "Rochester, NY": 226
+    },
+    "Albuquerque, NM": {
+        "Amarillo, TX": 288,
+        "Denver, CO": 449,
+        "Flagstaff, AZ": 323,
+        "Las Cruces, NM": 223
+    },
+    "Amarillo, TX": {
+        "Albuquerque, NM": 288,
+        "Oklahoma City, OK": 260
+    },
+    "Atlanta, GA": {
+        "Birmingham, AL": 147,
+        "Charlotte, NC": 244,
+        "Chattanooga, TN": 118,
+        "Columbia, SC": 215,
+        "Montgomery, AL": 161,
+        "Savannah, GA": 248,
+        "Tampa, FL": 456
+    },
+    "Austin, TX": {
+        "Dallas, TX": 195,
+        "San Antonio, TX": 80
+    },
+    "Baltimore, MD": {
+        "Pittsburgh, PA": 196,
+        "Washington, DC": 35,
+        "Wilmington, DE": 65
+    },
+    "Billings, MT": {
+        "Cheyenne, WY": 455,
+        "Fargo, ND": 609,
+        "Seattle, WA": 820,
+        "Sioux Falls, SD": 661
+    },
+    "Birmingham, AL": {
+        "Atlanta, GA": 147,
+        "Chattanooga, TN": 147,
+        "Jackson, MS": 237,
+        "Memphis, TN": 245,
+        "Montgomery, AL": 91,
+        "Nashville, TN": 192,
+        "New Orleans, LA": 344
+    },
+    "Boise, ID": {
+        "Portland, OR": 430,
+        "Salt Lake City, UT": 339,
+        "Seattle, WA": 504
+    },
+    "Boston, MA": {
+        "Albany, NY": 168,
+        "Concord, NH": 68,
+        "Portland, ME": 105,
+        "Providence, RI": 58
+    },
+    "Bridgeport, CT": {
+        "New York City, NY": 53,
+        "Providence, RI": 102
+    },
+    "Buffalo, NY": {
+        "Erie, PA": 81,
+        "Rochester, NY": 67
+    },
+    "Burlington, VT": {
+        "Concord, NH": 121
+    },
+    "Charleston, SC": {
+        "Columbia, SC": 116,
+        "Savannah, GA": 108
+    },
+    "Charleston, WV": {
+        "Charlotte, NC": 221,
+        "Cleveland, OH": 218,
+        "Louisville, KY": 223,
+        "Pittsburgh, PA": 169,
+        "Richmond, VA": 236
+    },
+    "Charlotte, NC": {
+        "Atlanta, GA": 244,
+        "Charleston, WV": 221,
+        "Knoxville, TN": 231,
+        "Raleigh, NC": 130
+    },
+    "Chattanooga, TN": {
+        "Atlanta, GA": 118,
+        "Birmingham, AL": 147,
+        "Knoxville, TN": 112,
+        "Nashville, TN": 134
+    },
+    "Cheyenne, WY": {
+        "Billings, MT": 455,
+        "Denver, CO": 101,
+        "Omaha, NE": 498,
+        "Salt Lake City, UT": 440
+    },
+    "Chicago, IL": {
+        "Cleveland, OH": 308,
+        "Des Moines, IA": 334,
+        "Detroit, MI": 282,
+        "Indianapolis, IN": 182,
+        "Milwaukee, WI": 92,
+        "Springfield, IL": 202
+    },
+    "Cincinnati, OH": {
+        "Columbus, OH": 107,
+        "Detroit, MI": 263,
+        "Indianapolis, IN": 112,
+        "Knoxville, TN": 251,
+        "Louisville, KY": 100
+    },
+    "Cleveland, OH": {
+        "Charleston, WV": 218,
+        "Chicago, IL": 308,
+        "Columbus, OH": 127,
+        "Detroit, MI": 90,
+        "Erie, PA": 93,
+        "New York City, NY": 404,
+        "Pittsburgh, PA": 115
+    },
+    "Columbia, SC": {
+        "Atlanta, GA": 215,
+        "Charleston, SC": 116,
+        "Savannah, GA": 163
+    },
+    "Columbus, OH": {
+        "Cincinnati, OH": 107,
+        "Cleveland, OH": 127,
+        "Indianapolis, IN": 176,
+        "Pittsburgh, PA": 185
+    },
+    "Concord, NH": {
+        "Boston, MA": 68,
+        "Burlington, VT": 121
+    },
+    "Dallas, TX": {
+        "Austin, TX": 195,
+        "El Paso, TX": 635,
+        "Houston, TX": 239,
+        "Jackson, MS": 406,
+        "Little Rock, AR": 319,
+        "Oklahoma City, OK": 206
+    },
+    "Denver, CO": {
+        "Albuquerque, NM": 449,
+        "Cheyenne, WY": 101,
+        "Kansas City, MO": 603,
+        "Las Vegas, NV": 748,
+        "Omaha, NE": 539
+    },
+    "Des Moines, IA": {
+        "Chicago, IL": 334,
+        "Kansas City, MO": 193,
+        "Minneapolis, MN": 244,
+        "Omaha, NE": 134
+    },
+    "Detroit, MI": {
+        "Chicago, IL": 282,
+        "Cincinnati, OH": 263,
+        "Cleveland, OH": 90,
+        "Lansing, MI": 91,
+        "Sault Ste. Marie, MI": 346
+    },
+    "Duluth, MN": {
+        "Minneapolis, MN": 154
+    },
+    "El Paso, TX": {
+        "Dallas, TX": 635,
+        "Las Cruces, NM": 46,
+        "San Antonio, TX": 552
+    },
+    "Erie, PA": {
+        "Buffalo, NY": 81,
+        "Cleveland, OH": 93,
+        "Pittsburgh, PA": 117
+    },
+    "Fargo, ND": {
+        "Billings, MT": 609,
+        "Minneapolis, MN": 235,
+        "Sioux Falls, SD": 243
+    },
+    "Flagstaff, AZ": {
+        "Albuquerque, NM": 323,
+        "Las Vegas, NV": 253,
+        "Phoenix, AZ": 144
+    },
+    "Green Bay, WI": {
+        "Milwaukee, WI": 118
+    },
+    "Houston, TX": {
+        "Dallas, TX": 239,
+        "New Orleans, LA": 348,
+        "San Antonio, TX": 197
+    },
+    "Indianapolis, IN": {
+        "Chicago, IL": 182,
+        "Cincinnati, OH": 112,
+        "Columbus, OH": 176,
+        "Lansing, MI": 254,
+        "Springfield, IL": 213,
+        "St. Louis, MO": 243
+    },
+    "Jackson, MS": {
+        "Birmingham, AL": 237,
+        "Dallas, TX": 406,
+        "Memphis, TN": 209,
+        "New Orleans, LA": 188
+    },
+    "Jacksonville, FL": {
+        "Miami, FL": 346,
+        "Mobile, AL": 404,
+        "Orlando, FL": 141,
+        "Savannah, GA": 139
+    },
+    "Kansas City, MO": {
+        "Denver, CO": 603,
+        "Des Moines, IA": 193,
+        "Omaha, NE": 185,
+        "St. Louis, MO": 248,
+        "Wichita, KS": 195
+    },
+    "Knoxville, TN": {
+        "Charlotte, NC": 231,
+        "Chattanooga, TN": 112,
+        "Cincinnati, OH": 251,
+        "Nashville, TN": 180
+    },
+    "Lansing, MI": {
+        "Detroit, MI": 91,
+        "Indianapolis, IN": 254,
+        "Sault Ste. Marie, MI": 287
+    },
+    "Las Cruces, NM": {
+        "Albuquerque, NM": 223,
+        "El Paso, TX": 46,
+        "Phoenix, AZ": 388,
+        "San Diego, CA": 683
+    },
+    "Las Vegas, NV": {
+        "Denver, CO": 748,
+        "Flagstaff, AZ": 253,
+        "Los Angeles, CA": 270,
+        "Salt Lake City, UT": 421
+    },
+    "Little Rock, AR": {
+        "Dallas, TX": 319,
+        "Memphis, TN": 137,
+        "Oklahoma City, OK": 339
+    },
+    "Los Angeles, CA": {
+        "Las Vegas, NV": 270,
+        "Phoenix, AZ": 372,
+        "San Diego, CA": 120,
+        "San Fransisco, CA": 383
+    },
+    "Louisville, KY": {
+        "Charleston, WV": 223,
+        "Cincinnati, OH": 100,
+        "Nashville, TN": 176,
+        "St. Louis, MO": 260
+    },
+    "Madison, WI": {
+        "Milwaukee, WI": 79,
+        "Minneapolis, MN": 270,
+        "Sioux Falls, SD": 435,
+        "Springfield, IL": 266
+    },
+    "Memphis, TN": {
+        "Birmingham, AL": 245,
+        "Jackson, MS": 209,
+        "Little Rock, AR": 137,
+        "Nashville, TN": 212,
+        "St. Louis, MO": 283
+    },
+    "Miami, FL": {
+        "Jacksonville, FL": 346,
+        "Tampa, FL": 282
+    },
+    "Milwaukee, WI": {
+        "Chicago, IL": 92,
+        "Green Bay, WI": 118,
+        "Madison, WI": 79
+    },
+    "Minneapolis, MN": {
+        "Des Moines, IA": 244,
+        "Duluth, MN": 154,
+        "Fargo, ND": 235,
+        "Madison, WI": 270
+    },
+    "Mobile, AL": {
+        "Jacksonville, FL": 404,
+        "Montgomery, AL": 169,
+        "New Orleans, LA": 145,
+        "Tampa, FL": 515
+    },
+    "Montgomery, AL": {
+        "Atlanta, GA": 161,
+        "Birmingham, AL": 91,
+        "Mobile, AL": 169
+    },
+    "Nashville, TN": {
+        "Birmingham, AL": 192,
+        "Chattanooga, TN": 134,
+        "Knoxville, TN": 180,
+        "Louisville, KY": 176,
+        "Memphis, TN": 212
+    },
+    "New Orleans, LA": {
+        "Birmingham, AL": 344,
+        "Houston, TX": 348,
+        "Jackson, MS": 188,
+        "Mobile, AL": 145
+    },
+    "New York City, NY": {
+        "Albany, NY": 151,
+        "Bridgeport, CT": 53,
+        "Cleveland, OH": 404,
+        "Newark, NJ": 9
+    },
+    "Newark, NJ": {
+        "New York City, NY": 9,
+        "Philadelphia, PA": 75
+    },
+    "Norfolk, VA": {
+        "Richmond, VA": 79,
+        "Virginia Beach, VA": 17
+    },
+    "Oklahoma City, OK": {
+        "Amarillo, TX": 260,
+        "Dallas, TX": 206,
+        "Little Rock, AR": 339,
+        "St. Louis, MO": 498,
+        "Wichita, KS": 161
+    },
+    "Omaha, NE": {
+        "Cheyenne, WY": 498,
+        "Denver, CO": 539,
+        "Des Moines, IA": 134,
+        "Kansas City, MO": 185,
+        "Sioux Falls, SD": 182
+    },
+    "Orlando, FL": {
+        "Jacksonville, FL": 141,
+        "Tampa, FL": 84
+    },
+    "Philadelphia, PA": {
+        "Newark, NJ": 75,
+        "Pittsburgh, PA": 257,
+        "Wilmington, DE": 25
+    },
+    "Phoenix, AZ": {
+        "Flagstaff, AZ": 144,
+        "Las Cruces, NM": 388,
+        "Los Angeles, CA": 372
+    },
+    "Pittsburgh, PA": {
+        "Baltimore, MD": 196,
+        "Charleston, WV": 169,
+        "Cleveland, OH": 115,
+        "Columbus, OH": 185,
+        "Erie, PA": 117,
+        "Philadelphia, PA": 257
+    },
+    "Portland, ME": {
+        "Boston, MA": 105
+    },
+    "Portland, OR": {
+        "Boise, ID": 430,
+        "Sacramento, CA": 580,
+        "Seattle, WA": 174
+    },
+    "Providence, RI": {
+        "Boston, MA": 58,
+        "Bridgeport, CT": 102
+    },
+    "Raleigh, NC": {
+        "Charlotte, NC": 130,
+        "Richmond, VA": 139
+    },
+    "Richmond, VA": {
+        "Charleston, WV": 236,
+        "Norfolk, VA": 79,
+        "Raleigh, NC": 139,
+        "Washington, DC": 96
+    },
+    "Rochester, NY": {
+        "Albany, NY": 226,
+        "Buffalo, NY": 67
+    },
+    "Sacramento, CA": {
+        "Portland, OR": 580,
+        "Salt Lake City, UT": 649,
+        "San Fransisco, CA": 88
+    },
+    "Salt Lake City, UT": {
+        "Boise, ID": 339,
+        "Cheyenne, WY": 440,
+        "Las Vegas, NV": 421,
+        "Sacramento, CA": 649
+    },
+    "San Antonio, TX": {
+        "Austin, TX": 80,
+        "El Paso, TX": 552,
+        "Houston, TX": 197
+    },
+    "San Diego, CA": {
+        "Las Cruces, NM": 683,
+        "Los Angeles, CA": 120
+    },
+    "San Fransisco, CA": {
+        "Los Angeles, CA": 383,
+        "Sacramento, CA": 88
+    },
+    "Sault Ste. Marie, MI": {
+        "Detroit, MI": 346,
+        "Lansing, MI": 287
+    },
+    "Savannah, GA": {
+        "Atlanta, GA": 248,
+        "Charleston, SC": 108,
+        "Columbia, SC": 163,
+        "Jacksonville, FL": 139
+    },
+    "Seattle, WA": {
+        "Billings, MT": 820,
+        "Boise, ID": 504,
+        "Portland, OR": 174
+    },
+    "Sioux Falls, SD": {
+        "Billings, MT": 661,
+        "Fargo, ND": 243,
+        "Madison, WI": 435,
+        "Omaha, NE": 182
+    },
+    "Springfield, IL": {
+        "Chicago, IL": 202,
+        "Indianapolis, IN": 213,
+        "Madison, WI": 266,
+        "St. Louis, MO": 96
+    },
+    "St. Louis, MO": {
+        "Indianapolis, IN": 243,
+        "Kansas City, MO": 248,
+        "Louisville, KY": 260,
+        "Memphis, TN": 283,
+        "Oklahoma City, OK": 498,
+        "Springfield, IL": 96
+    },
+    "Tampa, FL": {
+        "Atlanta, GA": 456,
+        "Miami, FL": 282,
+        "Mobile, AL": 515,
+        "Orlando, FL": 84
+    },
+    "Virginia Beach, VA": {
+        "Norfolk, VA": 17
+    },
+    "Washington, DC": {
+        "Baltimore, MD": 35,
+        "Richmond, VA": 96
+    },
+    "Wichita, KS": {
+        "Kansas City, MO": 195,
+        "Oklahoma City, OK": 161
+    },
+    "Wilmington, DE": {
+        "Baltimore, MD": 65,
+        "Philadelphia, PA": 25
+    }
+}
