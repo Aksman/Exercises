@@ -7,7 +7,7 @@
 namespace Aksman\Exercises\php\MathExercises;
 
 /**
- * This uses Euclid's Algorithm to calculate the GCD.
+ * This uses the Euclidean Algorithm to calculate the GCD.
  * @param int $a
  * @param int $b
  * @return int
