@@ -4,6 +4,8 @@
  * Create a function that detects a cycle in a graph.
  */
 
+namespace Aksman\Exercises\php\DataStructureExercises;
+
 class CycleDetector
 {
     // Using constants for the three states node traveral instead of mere integers
