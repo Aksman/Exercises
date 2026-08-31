@@ -55,8 +55,8 @@ if (get_included_files()[0] == __FILE__) {
     $keys = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
     $random = new Randomizer();
     $list = [];
-    for ($i = 0; $i < 26; $i++) {
-        $list[$keys[$i]] = $random->getInt(1, 100);
+    foreach ($keys as $k) {
+        $list[$k] = $random->getInt(1, 100);
     }
 
     echo "My List: ";
